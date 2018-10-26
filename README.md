@@ -11,10 +11,10 @@ There are three __main__ parts to doing this homework.
 
 __A.__ Get your environment set up so you can edit, and build the
    source code, and be able to run (execute) the program that you've
-   built.
-__B.__ Be able to run the Python grading script.
+   built.  
+__B.__ Be able to run the Python grading script.  
 __C.__ Implement a super simple function and submit your `hello.cpp` file
-   for grading.
+   for grading.  
 
 # Part A: Setting up your environment.
 
